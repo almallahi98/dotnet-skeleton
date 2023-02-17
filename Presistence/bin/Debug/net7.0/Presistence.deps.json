@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Presistence/1.0.0": {
+        "dependencies": {
+          "Domin": "1.0.0"
+        },
+        "runtime": {
+          "Presistence.dll": {}
+        }
+      },
+      "Domin/1.0.0": {
+        "runtime": {
+          "Domin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Presistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

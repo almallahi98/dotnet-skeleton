@@ -1,0 +1,15 @@
+C:\Users\USER\dotnet\projectX\Presistence\bin\Debug\net7.0\Presistence.deps.json
+C:\Users\USER\dotnet\projectX\Presistence\bin\Debug\net7.0\Presistence.dll
+C:\Users\USER\dotnet\projectX\Presistence\bin\Debug\net7.0\Presistence.pdb
+C:\Users\USER\dotnet\projectX\Presistence\bin\Debug\net7.0\Domin.dll
+C:\Users\USER\dotnet\projectX\Presistence\bin\Debug\net7.0\Domin.pdb
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\Presistence.csproj.AssemblyReference.cache
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\Presistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\Presistence.AssemblyInfoInputs.cache
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\Presistence.AssemblyInfo.cs
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\Presistence.csproj.CoreCompileInputs.cache
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\Presistence.csproj.CopyComplete
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\Presistence.dll
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\refint\Presistence.dll
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\Presistence.pdb
+C:\Users\USER\dotnet\projectX\Presistence\obj\Debug\net7.0\ref\Presistence.dll

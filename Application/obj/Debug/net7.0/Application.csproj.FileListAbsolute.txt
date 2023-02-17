@@ -1,0 +1,17 @@
+C:\Users\USER\dotnet\projectX\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\USER\dotnet\projectX\Application\bin\Debug\net7.0\Application.dll
+C:\Users\USER\dotnet\projectX\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\USER\dotnet\projectX\Application\bin\Debug\net7.0\Domin.dll
+C:\Users\USER\dotnet\projectX\Application\bin\Debug\net7.0\Presistence.dll
+C:\Users\USER\dotnet\projectX\Application\bin\Debug\net7.0\Domin.pdb
+C:\Users\USER\dotnet\projectX\Application\bin\Debug\net7.0\Presistence.pdb
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\Application.dll
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\USER\dotnet\projectX\Application\obj\Debug\net7.0\ref\Application.dll

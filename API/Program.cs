@@ -11,7 +11,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DbContextApp>(opt =>{
     opt.UseSqlite(builder.Configuration.GetConnectionString("ConnString"));
+    
 });
+
+
 
 var app = builder.Build();
 
@@ -20,6 +23,7 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+   
 }
 
 //app.UseHttpsRedirection();

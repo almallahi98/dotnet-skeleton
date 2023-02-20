@@ -2,10 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+using Microsoft.aspnetcore.mvc;
 namespace API.Controllers
 {
-    public class ActivitiesController
+    [ApiController]
+    [Route("[controller]")]
+    public class ActivitiesController: ControllerBase
     {
         
     }

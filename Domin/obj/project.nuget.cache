@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RXWI/IdrHTfVE5dAnRhpwyOUrkgWhyRxBwfjHrx4LqjwpUWFcOtqaxmVa3ppSb/cQwMPtBlDelkxZxSHGbPUfw==",
+  "dgSpecHash": "N2/sFsqEYYkmR23s7tsdrsEG06X6BW76SgmqTx9vZbQYiTKyIkpGX4MV7cqYJ0l+Mi7+H5aZTQ8qUP9Kd1NotA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\dotnet\\projectX\\Domin\\Domin.csproj",
+  "projectFilePath": "/Users/mohammedalmallahi/Documents/dotnet/dotnet-skeleton/Domin/Domin.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

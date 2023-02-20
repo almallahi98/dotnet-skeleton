@@ -35,10 +35,11 @@ try
     var context =service.GetRequiredService<DbContextApp>();
     context.Database.Migrate();
 }
-catch (System.Exception)
+catch (Exception ex)
 {
     
-    throw;
+    var logger = service.GetRequiredService<ILogger<Program>>();
+    logger.LogError(ex,"massge of error");
 }
 
 app.Run();
